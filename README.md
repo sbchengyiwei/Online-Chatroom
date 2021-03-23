@@ -26,18 +26,12 @@ Validated that the username supplied does not already exist in the application, 
 Sign Up page: http://localhost:8080/signup
 3. Home Page
 The home page has a logout button that allows the user to log out of the application and keep their data private.
-The home page is the center of the application and hosts the required pieces of functionality - chating with various fonts and saving their chat record as a copy.
+The home page is the center of the application, hosting the required pieces of functionality - chating with various fonts and saving their chat record as a copy.
 Home page: http://localhost:8080/home
 
 ## Testing
 1. Writed Tests for User Signup, Login, and Unauthorized Access Restrictions.
-Writed a test that verifies that an unauthorized user can only access the login and signup pages.
-Writed a test that signs up a new user, logs in, verifies that the home page is accessible, logs out, and verifies that the home page is no longer accessible.
+
 2. Writed Tests for Note Creation, Viewing, Editing, and Deletion.
-Writed a test that creates a note, and verifies it is displayed.
-Writed a test that edits an existing note and verifies that the changes are displayed.
-Writed a test that deletes a note and verifies that the note is no longer displayed.
+
 3. Writed Tests for Credential Creation, Viewing, Editing, and Deletion.
-Writed a test that creates a set of credentials, verifies that they are displayed, and verifies that the displayed password is encrypted.
-Writed a test that views an existing set of credentials, verifies that the viewable password is unencrypted, edits the credentials, and verifies that the changes are displayed.
-Writed a test that deletes an existing set of credentials and verifies that the credentials are no longer displayed.

@@ -1,10 +1,10 @@
 # Online-Chatroom
-An online chat application developed by java spring boot and HTML css. 
+An online chat application developed by java spring boot and HTML css. You can download the code and open it as a Maven project in IntelliJ.
 ### Layers: 
 - The back-end with Spring Boot;
 - The front-end with Thymeleaf;
 - Application tests with Selenium;
-You can download the code and open it as a Maven project in IntelliJ.
+
 
 ## The Back-End
 The back-end is all about security and connecting the front-end to database data and actions.

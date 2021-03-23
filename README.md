@@ -1,8 +1,9 @@
 # Online-Chatroom
-An online chat application developed by java spring boot and HTML css.
-The back-end with Spring Boot;
-The front-end with Thymeleaf;
-Application tests with Selenium;
+An online chat application developed by java spring boot and HTML css. 
+### Layers: 
+- The back-end with Spring Boot;
+- The front-end with Thymeleaf;
+- Application tests with Selenium;
 You can download the code and open it as a Maven project in IntelliJ.
 
 ## The Back-End
@@ -14,7 +15,7 @@ Writed controllers for the application that bind application data and functional
 3. Making Calls to the Database with MyBatis Mappers
 Implemented MyBatis mapper interfaces for each of the model types. 
 ## The Front-End
-developed HTML templates for the required application pages. Inserted Thymeleaf attributes to supply the back-end data and functionality described by the following individual page requirements:
+Developed HTML templates for the required application pages. Inserted Thymeleaf attributes to supply the back-end data and functionality described by the following individual page requirements:
 1. Login Page
 Everyone should be allowed access to this page, and users can use this page to login to the application.
 Show login errors, like invalid username/password, on this page.

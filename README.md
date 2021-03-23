@@ -32,6 +32,6 @@ Developed HTML templates for the required application pages. Inserted Thymeleaf 
 ## Testing
 1. Writed Tests for User Signup, Login, and Unauthorized Access Restrictions.
 
-2. Writed Tests for Note Creation, Viewing, Editing, and Deletion.
+2. Writed Tests for Record Creation, Viewing, Editing, and Deletion.
 
 3. Writed Tests for Credential Creation, Viewing, Editing, and Deletion.
